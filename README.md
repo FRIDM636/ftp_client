@@ -73,7 +73,7 @@ multi-threading uploading not implemented yet
 
 -upload and download in the same time with multiple calls (concurrently not implemented yet)
 
-**Log:
+__ Log:
 
 * downloaded file
 * file size
